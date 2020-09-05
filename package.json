@@ -34,7 +34,7 @@
     "history": "^4.10.1",
     "install": "^0.13.0",
     "ionicons": "^5.0.0",
-    "node-sass": "4.13.0",
+    "node-sass": "4.13.1",
     "query-string": "6.9.0",
     "react": "^16.13.0",
     "react-bootstrap": "1.0.0-beta.16",
